@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @themohittiwari
+- 👋 Hi, I’m Mohit Tiwari
 - 👀 I’m interested in Full-stack development
 - 💞️ I’m looking to collaborate on MERN Projects
 - 📫 Wanna reach me here's my gmail - themohittiwari@gmail.com
